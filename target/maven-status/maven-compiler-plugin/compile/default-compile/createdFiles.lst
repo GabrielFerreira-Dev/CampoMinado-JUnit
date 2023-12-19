@@ -1,0 +1,6 @@
+br\com\projeto\cm\visao\TabuleiroConsole.class
+br\com\projeto\cm\Aplicacao.class
+br\com\projeto\cm\excecao\SairException.class
+br\com\projeto\cm\modelo\Campo.class
+br\com\projeto\cm\excecao\ExplosaoException.class
+br\com\projeto\cm\modelo\Tabuleiro.class
